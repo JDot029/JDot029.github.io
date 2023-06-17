@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("Hintergrund.jpg");
+    background-image: url("Images/Hintergrund.jpg");
     background-size: cover;
 }
 #Box1 {
@@ -10,7 +10,10 @@ body {
     background-color: rgba(128, 128, 128, 0.5);
 }
 #Box3 {
-    background-color: rgba(128, 128, 128, 0.5);
+  background-color: rgba(128, 128, 128, 0.5);
+}
+#Box4 {
+    background-color: rgba(67, 99, 114, 0.76);
 }
 .centered {
     display: flex;
@@ -34,4 +37,18 @@ body {
   .button:hover {
     background-color: rgba(128, 128, 128, 0.7);
   }
+  #page-container {
+    position: relative;
+    min-height: 100vh;
+  }
   
+  #content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+  
+  #footer {
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    height: 2.5rem;            /* Footer height */
+  }

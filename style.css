@@ -1,0 +1,37 @@
+
+body {
+    background-image: url("Hintergrund.jpg");
+    background-size: cover;
+}
+#Box1 {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+#Box2 {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+#Box3 {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(128, 128, 128, 0.5);
+    color: black;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: rgba(128, 128, 128, 0.7);
+  }
+  

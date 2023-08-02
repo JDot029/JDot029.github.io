@@ -15,6 +15,9 @@ body {
 #Box4 {
     background-color: rgba(67, 99, 114, 0.76);
 }
+#Box5 {
+  background-color: rgba(67, 99, 114, 0.76);
+}
 .centered {
     display: flex;
     justify-content: center;

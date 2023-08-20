@@ -1,7 +1,7 @@
 
 body {
     background-image: url("../Images/MinecraftBild.png");
-    background-size: cover;
+    background-size: stretch;
 }
 #Box1 {
     background-color: rgba(128, 128, 128, 0.5);
@@ -21,7 +21,7 @@ body {
   
   #footer {
     position: absolute;
-    bottom: 0;
+    bottom: 1;
     width: 99%;
     height: 2.5rem;            /* Footer height */
   }

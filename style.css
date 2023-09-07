@@ -58,3 +58,6 @@ body {
     width: 99%;
     height: 2.5rem;            /* Footer height */
   }
+  td {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }

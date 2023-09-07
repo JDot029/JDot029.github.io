@@ -1,0 +1,33 @@
+
+body {
+    background-image: url("../../Images/MinecraftBild.png");
+    background-size: stretch;
+}
+#Box1 {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+#Box2 {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+#Box3 {
+  background-color: rgba(128, 128, 128, 0.5);
+}
+#Box4 {
+    background-color: rgba(67, 99, 114, 0.76);
+}
+#Box5 {
+  background-color: rgba(67, 99, 114, 0.76);
+}
+  
+  #footer {
+    position: absolute;
+    bottom: 1;
+    width: 99%;
+    height: 2.5rem;            /* Footer height */
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

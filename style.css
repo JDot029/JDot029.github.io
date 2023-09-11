@@ -9,8 +9,13 @@ body {
 #Box2 {
     background-color: rgba(128, 128, 128, 0.5);
 }
-#Box4 {
-    background-color: rgba(67, 99, 114, 0.70);
+#TextBox {
+  background-color: rgba(128, 128, 128, 0.5);
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;    
+  border: solid #04AA6D;
+  margin-bottom: 1%;
 }
 #Box5 {
   background-color: rgba(67, 99, 114, 0.70);
@@ -56,6 +61,7 @@ body {
 .Knopf:hover {
   background-color: #0768335d;
 }
+
 
 
 #page-container {

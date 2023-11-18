@@ -1,5 +1,5 @@
 function onButtonClick() {
-  location.assign("https://jdot029.github.io/");
+  location.assign("../index.html");
 }
 
 const button = document.querySelector('button');

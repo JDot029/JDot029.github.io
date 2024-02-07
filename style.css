@@ -1,3 +1,5 @@
+/* Änderungen für die CSS-Datei */
+
 body {
   background-image: url("Images/Hintergrund.jpg");
   background-size: cover;
@@ -91,7 +93,6 @@ body {
 
 .centered {
   text-align: center;
-
 }
 
 #Box1 h1,

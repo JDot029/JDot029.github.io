@@ -11,3 +11,7 @@ Changelog:
 > Weihnachtswebseite index Fix
 > Bei Mehr wurde der Text für die Pixel Seite repariert
 > Der Code wurde auf HTML und CSS Probleme überprüft
+
+> V1.3.2:
+> Kleinere Fixes
+> Google Analytics

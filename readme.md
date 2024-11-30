@@ -15,3 +15,10 @@ Changelog:
 > V1.3.2:
 > Kleinere Fixes
 > Google Analytics
+
+> V1.4
+> Redesign
+
+> V1.5
+> Neubau
+> Die Webseite wurde aufgeräumt
